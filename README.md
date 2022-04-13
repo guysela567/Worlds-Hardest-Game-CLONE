@@ -1,3 +1,2 @@
 # Worlds-Hardest-Game-CLONE
-This project is cut for now.
-I will surely come back to add an AI algorithm for the computer to play the game.
+Clone of the popular flash game "World's Hardest Game".
